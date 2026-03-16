@@ -97,6 +97,12 @@ foreach (var error in errors)
 | `Errors` | `IReadOnlyList<string>` of all validation error messages |
 | `Message` | Formatted string listing all errors |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.ConfigValidator.csproj --configuration Release
+```
+
 ## License
 
 MIT
