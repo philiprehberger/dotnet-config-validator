@@ -1,5 +1,9 @@
 # Philiprehberger.ConfigValidator
 
+[![CI](https://github.com/philiprehberger/dotnet-config-validator/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-config-validator/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.ConfigValidator.svg)](https://www.nuget.org/packages/Philiprehberger.ConfigValidator)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-config-validator)](LICENSE)
+
 Validate appsettings.json configuration sections at startup with attribute-based rules.
 
 ## Install
