@@ -6,7 +6,7 @@
 
 Validate appsettings.json configuration sections at startup with attribute-based rules.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.ConfigValidator
