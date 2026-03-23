@@ -7,9 +7,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.ConfigValidator</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Validate appsettings.json configuration sections at startup with attribute-based rules</Description>
+    <Description>Validate appsettings.json configuration sections at startup with attribute-based rules.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-config-validator</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
